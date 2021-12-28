@@ -1,0 +1,23 @@
+{
+  "name": "lunw1024.github.io",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "vue": "next",
+    "vue-router": "next"
+  },
+  "devDependencies": {
+    "@iconify-json/fa-brands": "latest",
+    "@vitejs/plugin-vue": "latest",
+    "daisyui": "latest",
+    "unplugin-icons": "latest",
+    "vite": "latest",
+    "vite-plugin-pages": "latest",
+    "vite-plugin-windicss": "latest",
+    "windicss": "latest"
+  }
+}
