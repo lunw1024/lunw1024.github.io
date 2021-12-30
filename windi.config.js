@@ -15,6 +15,10 @@ export default defineConfig({
         title: ['Raleway', 'sans-serif']
       }
     }
+  },
+  shortcuts: {
+    'textbox': "flex flex-col p-8 mx-auto w-180 <sm:w-auto <sm:mx-2 border-2 border-black backdrop-filter backdrop-blur-sm bg-white bg-opacity-80 text-black rounded-2xl",
+    'textlink': "underline decoration-2 decoration-gray-400 hover:decoration-dark-900"
   }
   // plugins: [transform('daisyui')]
 })
