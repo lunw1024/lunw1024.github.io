@@ -19,7 +19,7 @@
       competitions. Check out my progress in
       <router-link class="textlink" to="/blog">Blog</router-link>
       and
-      <router-link class="textlink" to="/projects">Projects</router-link>!
+      <router-link class="textlink" to="/projects">Projects</router-link>.
     </p>
     <p>
       I'm very optimistic about the future of AI. While learning more, I did some research on computer vision and autonomous driving. View my publication on
@@ -27,7 +27,7 @@
     </p>
     <p>
       I'm also into blockchain technology, or "crypto". I'm investing in projects while building some myself.
-      <router-link class="textlink" to="/contacts">Contact me</router-link> if you want to exchange ideas or just chat!
+      <router-link class="textlink" to="/contacts">Contact me</router-link> if you want to exchange ideas or just chat.
     </p>
     <p>
       If you like my passions and want to make friends, feel free to

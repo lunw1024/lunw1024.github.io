@@ -8,8 +8,8 @@ import bgimg from './assets/bg-rhythm.png'
     class="flex flex-col bg-fixed w-screen h-screen bg-scroll bg-repeat bg-cover"
     :style="{ 'background-image': 'url(' + bgimg + ')' }"
   >
-    <Navbar class="m-2" />
-    <router-view />
+    <Navbar class="m-2 z-1" />
+    <router-view class="z-0"/>
   </div>
 </template>
 
