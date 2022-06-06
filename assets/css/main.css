@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .textlink {
+        @apply text-rose-500 hover:underline decoration-2
+    }
+  }

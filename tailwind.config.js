@@ -1,7 +1,22 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    fontFamily: {
+      'sans': ['ui-sans-serif'],
+    },
+    extend: {
+      backgroundImage: {
+        'image': "url('/assets/bg-rhythm.png')",
+        'pattern': "url('/assets/topography.svg')"
+      },
+      colors: {
+        
+      }
+    },
+
   },
   plugins: [require("daisyui")],
+  daisyui: {
+    themes: false,
+  },
 }
