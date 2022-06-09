@@ -24,7 +24,7 @@ import { Icon } from '@iconify/vue'
     </div>
     <div class="navbar-center"> </div>
     <div class="navbar-end">
-      <div class="flex hidden sm:inline items-center ">
+      <div class="flex hidden md:inline items-center ">
         <NuxtLink class="btn btn-ghost btn-sm rounded-lg align-middle" to="/blog">Blog</NuxtLink>
         <NuxtLink class="btn btn-ghost btn-sm rounded-lg align-middle" to="/projects">Projects</NuxtLink>
         <a class="btn btn-ghost btn-sm rounded-lg align-middle">Resume</a>

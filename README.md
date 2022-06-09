@@ -2,6 +2,8 @@
 ```bash
 pnpm generate
 cd .output/public
+touch .nojekyll
+echo alanwu.xyz >> CNAME
 git init
 git add .
 git commit -m "deploy"

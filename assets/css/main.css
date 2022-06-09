@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer utilities {
-    .textlink {
-        @apply text-rose-500 hover:underline decoration-2
+    .link {
+        @apply decoration-2
     }
   }
