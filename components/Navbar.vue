@@ -5,7 +5,7 @@ import { Icon } from '@iconify/vue'
 </script>
 
 <template>
-  <div class="navbar border-1 border-black rounded-2xl w-auto">
+  <div class="navbar rounded-2xl w-auto">
     <div class="navbar-start">
       <div class="dropdown md:hidden">
         <label tabindex="0" class="btn btn-ghost btn-square rounded-lg">

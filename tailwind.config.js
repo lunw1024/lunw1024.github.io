@@ -1,9 +1,6 @@
 module.exports = {
   content: [],
   theme: {
-    fontFamily: {
-      'sans': ['ui-sans-serif'],
-    },
     extend: {
       backgroundImage: {
         'image': "url('/assets/bg-rhythm.png')",
@@ -20,7 +17,7 @@ module.exports = {
     themes: [
       {
         mytheme: {
-          "primary": "#002fa7",
+          "primary": "#457b9d",
           "secondary": "#e9c46a",
           "accent": "#f4a261",
           "neutral": "#264653",
