@@ -1,0 +1,70 @@
+{
+  "node_modules/.pnpm/nuxt@3.0.0-rc.3/node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-b228cd3b.mjs",
+    "src": "node_modules/.pnpm/nuxt@3.0.0-rc.3/node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/blog.vue",
+      "pages/contacts.vue",
+      "pages/index.vue",
+      "pages/projects.vue"
+    ],
+    "css": [
+      "entry.91376e98.css"
+    ],
+    "assets": [
+      "terminal.90efde5a.png",
+      "scpt1.0ba580c7.jpeg",
+      "scpt2.2fc07930.jpeg",
+      "scpt3.d47dbd71.png",
+      "chainlink-hackathon.fdd1d341.svg",
+      "collateral.acb726ff.png",
+      "amistad.82a83615.jpeg",
+      "citadel-data-open.679779c9.png",
+      "DenseFuseNet-result.74fe5a39.gif",
+      "yau.5ae89dea.jpeg"
+    ]
+  },
+  "pages/blog.vue": {
+    "file": "blog-e9426476.mjs",
+    "src": "pages/blog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.0.0-rc.3/node_modules/nuxt/dist/app/entry.mjs",
+      "_TextBox-addeba9b.mjs"
+    ]
+  },
+  "_TextBox-addeba9b.mjs": {
+    "file": "TextBox-addeba9b.mjs",
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.0.0-rc.3/node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/contacts.vue": {
+    "file": "contacts-dd276c90.mjs",
+    "src": "pages/contacts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_TextBox-addeba9b.mjs",
+      "node_modules/.pnpm/nuxt@3.0.0-rc.3/node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-6f73b192.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.0.0-rc.3/node_modules/nuxt/dist/app/entry.mjs",
+      "_TextBox-addeba9b.mjs"
+    ]
+  },
+  "pages/projects.vue": {
+    "file": "projects-b6b9e8e5.mjs",
+    "src": "pages/projects.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.0.0-rc.3/node_modules/nuxt/dist/app/entry.mjs",
+      "_TextBox-addeba9b.mjs"
+    ]
+  }
+}

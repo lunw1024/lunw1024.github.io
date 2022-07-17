@@ -1,0 +1,1 @@
+import{_ as o,o as s,f as t,r}from"./entry-b228cd3b.mjs";const a={},c={class:"flex flex-col p-8 mx-auto max-w-3xl <sm:w-auto <sm:mx-2 rounded-2xl space-y-4"};function n(e,_){return s(),t("div",c,[r(e.$slots,"default")])}var m=o(a,[["render",n]]);export{m as _};
