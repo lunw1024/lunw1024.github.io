@@ -5,7 +5,7 @@
   <TextBox>
     <!-- Jane Street -->
     <h1 class="mx-auto font-semibold text-2xl">Jane Street Trading Internship</h1>
-    <p>I'm joining <NuxtLink class="link link-primary link-hover" to="https://www.janestreet.com/" target="_blank">Jane Street</NuxtLink> intern class 2023. See you in NY!
+    <p>I'm joining <NuxtLink class="link link-primary link-hover" to="https://www.janestreet.com/" target="_blank">Jane Street</NuxtLink> intern class 2023. See you in NY! Also, big thanks for Jump Trading, Citadel Securities, and Optiver for extending me an offer.
     </p>
     <div>
       <p class="space-x-2"><span class="badge badge-outline">Article</span>

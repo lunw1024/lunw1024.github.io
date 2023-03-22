@@ -11,4 +11,4 @@ git remote add origin https://github.com/lunw1024/lunw1024.github.io.git
 git push -f origin gh-pages:gh-pages
 ```
 
-Or, simply do `pnpm deploy`
+Or, simply do `pnpm run deploy`

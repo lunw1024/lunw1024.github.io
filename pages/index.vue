@@ -9,7 +9,7 @@
       <span class="text-primary font-bold">{</span>
       AI, Data, Algo, Quant, Crypto, Generative Art, Competitions, ...
       <span class="text-primary font-bold">}</span>.
-      Currently studying CS+Math @ Harvey Mudd College as a freshman.
+      Currently studying CS+Math @ Harvey Mudd College as a sophomore.
     </p>
     <p>
       I love to meet and compete with the brightest minds. I'm active in
@@ -20,6 +20,9 @@
       <NuxtLink class="link link-primary link-hover" to="/blog">Blog</NuxtLink>
       and
       <NuxtLink class="link link-primary link-hover" to="/projects">Projects</NuxtLink>.
+    </p>
+    <p>
+      This summer, I'm joining Jane Street as a Quantitative Trading Intern. Currently, I'm working at Crabel Asset Management part-time as a Quantitative Research Intern.
     </p>
     <p>
       I'm very optimistic about the future of AI. While learning more, I did some research on computer vision and autonomous driving. View my publication on
