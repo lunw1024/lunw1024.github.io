@@ -27,9 +27,9 @@
     <div class="divider py-10"></div>
     <h1 class="mx-auto font-semibold text-4xl">Log</h1>
 
-    <!-- Traders at Berkeley 2 -->
+    <!-- Prosperity 2 -->
     <h1 class="mx-auto font-semibold text-2xl">IMC Prosperity 2</h1>
-    <p>I played in the <NuxtLink class="link link-primary link-hover" to="https://prosperity.imc.com/" target="_blank">IMC Prosperity</NuxtLink> as Puerto Vallerta with Eric Zhang, Forrest Bicker, Milo Knell, and Sahil Rane. We were excited to pull though the 15-day trading challenge and win 1st place out of 13,500 teams trading orchids, coconuts, and roses. Big thanks to IMC and the mods for running the event! We had a lot of fun and are excited to take a tropical vacation.
+    <p>I played in the <NuxtLink class="link link-primary link-hover" to="https://prosperity.imc.com/" target="_blank">IMC Prosperity</NuxtLink> as Puerto Vallerta with Eric Zhang, Forrest Bicker, Milo Knell, and Sahil Rane. We were excited to pull though the 15-day trading challenge and win 1st place out of 13,500 teams trading orchids, coconuts, and roses. Big thanks to IMC and the mods for running the event! We had a lot of fun and are excited to take a $25,000 tropical vacation.
     </p>
     
     <div>
@@ -41,6 +41,18 @@
     <!-- <div class="grid grid-cols-2 gap-2 mx-auto"> -->
     <img class="rounded-2xl m-auto" src="~/assets/img/monkeys.png" alt="Monkeys" />
     <!-- </div> -->
+    <div class="divider py-10"></div>
+
+    <!-- Climate Hack AI -->
+    <h1 class="mx-auto font-semibold text-2xl">Climate Hack AI</h1>
+    <p>I participated in <NuxtLink class="link link-primary link-hover" to="https://climatehack.ai/" target="_blank">ClimateHack.AI</NuxtLink>, an international 4-month competition to tackle climate change. Working with Ethan Wilk and Evan Wang, we developed state-of-the-art prediction model of ultra-near-term site-level solar power production using satellite imagery, weather forecasts and air quality data. We represented Caltech and presented at in-person finals at Harvard University. We ended up taking 4th place, after Waterloo, UC Berkeley, and Bristol. Our work was used in <NuxtLink class="link link-primary link-hover" to="https://climatehack.ai/" target="_blank">Open Climate Fix</NuxtLink>'s ongoing research for the National Grid Electricity System Operator. Huge thanks to <NuxtLink class="link link-primary link-hover" to="https://www.linkedin.com/in/jeremyloyingping/" target="_blank">Jezz</NuxtLink> for building the amazing competition platform DOXA AI and running the competition!
+    </p>
+
+    <div class="grid grid-cols-2 gap-2 mx-auto">
+      <img class="rounded-2xl mx-auto" src="~/assets/img/climatehack1.jpg" alt="Climatehack"/>
+      <img class="rounded-2xl mx-auto" src="~/assets/img/climatehack2.jpg" alt="Climatehack"/>
+    </div>
+
     <div class="divider py-10"></div>
 
     <!-- Traders at Berkeley 2 -->
