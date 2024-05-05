@@ -13,8 +13,8 @@ import { Icon } from '@iconify/vue'
         </label>
         <ul tabindex="0" class="menu dropdown-content p-2 border-2 border-black rounded-2xl bg-white/80">
           <li><NuxtLink class="btn btn-ghost btn-sm" to="/blog">Blog</NuxtLink></li>
-          <li><NuxtLink class="btn btn-ghost btn-sm" to="/projects">Projects</NuxtLink></li>
-          <li><a class="btn btn-ghost btn-sm">Resume</a></li>
+          <!-- <li><NuxtLink class="btn btn-ghost btn-sm" to="/log">Log</NuxtLink></li> -->
+          <!-- <li><a class="btn btn-ghost btn-sm">Resume</a></li> -->
           <li><NuxtLink class="btn btn-ghost btn-sm" to="/contacts">Contact</NuxtLink></li>
         </ul>
       </div>
@@ -26,8 +26,8 @@ import { Icon } from '@iconify/vue'
     <div class="navbar-end">
       <div class="flex hidden md:inline items-center">
         <NuxtLink class="btn btn-ghost btn-sm rounded-lg align-middle" to="/blog">Blog</NuxtLink>
-        <NuxtLink class="btn btn-ghost btn-sm rounded-lg align-middle" to="/projects">Projects</NuxtLink>
-        <a class="btn btn-ghost btn-sm rounded-lg align-middle">Resume</a>
+        <!-- <NuxtLink class="btn btn-ghost btn-sm rounded-lg align-middle" to="/log">Log</NuxtLink> -->
+        <!-- <a class="btn btn-ghost btn-sm rounded-lg align-middle">Resume</a> -->
         <NuxtLink class="btn btn-ghost  btn-sm rounded-lg align-middle" to="/contacts">Contact</NuxtLink>
         <a href="https://github.com/lunw1024" target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-sm btn-circle align-middle">
           <Icon icon="fa6-brands:github" class="h-5 w-5"/>
