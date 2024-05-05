@@ -3,7 +3,7 @@
 
 <template>
   <TextBox>
-    <h1 class="mx-auto font-semibold text-4xl">Alan Wu</h1>
+    <h1 class="mx-auto font-semibold text-4xl">A<NuxtLink class="" to="https://www.cs.hmc.edu/~hluo/" target="_blank">l</NuxtLink>an Wu</h1>
     <p>
       Hey, I'm Alan Wu, studying CS at Caltech as a Junior.
     </p>
