@@ -27,6 +27,14 @@
     <div class="divider py-10"></div>
     <h1 class="mx-auto font-semibold text-4xl">Log</h1>
 
+    <!-- Jump Trading -->
+    <h1 class="mx-auto font-semibold text-2xl">Jump QR Internship</h1>
+    <p>I interned at <NuxtLink class="link link-primary link-hover" to="https://www.jumptrading.com/" target="_blank">Jump Trading</NuxtLink> in summer 2024. I worked on alpha research in equities.
+    </p>
+    <img class="rounded-2xl mx-auto" src="~/assets/img/jump.png" alt="Jump Trading"/>
+
+    <div class="divider py-10"></div>
+
     <!-- Prosperity 2 -->
     <h1 class="mx-auto font-semibold text-2xl">IMC Prosperity 2</h1>
     <p>I played in the <NuxtLink class="link link-primary link-hover" to="https://prosperity.imc.com/" target="_blank">IMC Prosperity</NuxtLink> as Puerto Vallerta with Eric Zhang, Forrest Bicker, Milo Knell, and Sahil Rane. We were excited to pull though the 15-day trading challenge and win 1st place out of 13,500 teams trading orchids, coconuts, and roses. Big thanks to IMC and the mods for running the event! We had a lot of fun and are excited to take a $25,000 tropical vacation.
@@ -72,7 +80,7 @@
         <NuxtLink class="link link-primary link-hover" to="https://ftalphaville.ft.com/content/21889b06-36ad-4b8d-92c5-54330bfddac5" target="_blank">Story of a friend</NuxtLink>
       </p>
     </div>
-    <img class="rounded-2xl mx-auto" src="~/assets/img/janestreet.png" alt="Data Open Champions"/>
+    <img class="rounded-2xl mx-auto" src="~/assets/img/janestreet.png" alt="Jane Street"/>
 
     <div class="divider py-10"></div>
 

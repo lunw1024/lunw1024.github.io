@@ -8,14 +8,14 @@
     "deploy": "pnpm generate && cd .output/public && touch .nojekyll && echo alanwu.xyz >> CNAME && git init -b gh-pages && git add . && git commit -m 'deploy' && git remote add origin https://github.com/lunw1024/lunw1024.github.io.git && git push -f origin gh-pages:gh-pages"
   },
   "devDependencies": {
-    "@iconify/vue": "^3.2.1",
-    "@nuxtjs/tailwindcss": "^6.12.0",
-    "@vueuse/core": "^9.13.0",
-    "@vueuse/nuxt": "^9.13.0",
-    "nuxt": "^3.11.2"
+    "@iconify/vue": "^4.1.2",
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "@vueuse/core": "^11.1.0",
+    "@vueuse/nuxt": "^11.1.0",
+    "nuxt": "^3.13.2"
   },
   "dependencies": {
-    "daisyui": "^4.10.5",
-    "p5": "^1.9.3"
+    "daisyui": "^4.12.10",
+    "p5": "^1.11.0"
   }
 }
