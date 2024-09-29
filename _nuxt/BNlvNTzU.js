@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{o as s,c as t,q as c}from"./Bp6sPVql.js";const n={},r={class:"flex flex-col p-8 mx-auto max-w-3xl <sm:w-auto <sm:mx-2 rounded-2xl space-y-4"};function _(o,a){return s(),t("div",r,[c(o.$slots,"default")])}const x=e(n,[["render",_]]);export{x as _};
