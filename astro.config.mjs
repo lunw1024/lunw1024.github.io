@@ -9,5 +9,5 @@ export default defineConfig({
     remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeTypst]
   },
-  site: "https://alanwu.xyz",
+  // site: "https://alanwu.xyz",
 })
