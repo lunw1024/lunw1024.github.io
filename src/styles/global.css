@@ -1,5 +1,5 @@
 html {
-  background-color: #f1f5f9;
+  background-color: #fff;
   font-family: 'Atkinson Hyperlegible Next', sans-serif;
 }
 
@@ -20,6 +20,6 @@ h1 {
   font-size: 2.5rem;
 }
 
-a { text-decoration: none; color: #283618; }
+a { text-decoration: none; color: #344e41; }
 a:hover { text-decoration: underline; }
 
