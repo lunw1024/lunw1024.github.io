@@ -67,14 +67,14 @@ PYBIND11_MODULE(example_bind, m) {
     py::bind_kernel<copy_kernel>(m, "copy_kernel", &globals::in, &globals::out);
 ```
 
-Runnins the binding from python:
+Running the kernel from python:
 
 ```python
 import example_bind
 import torch
 
 input = torch.ones(16, 1024, 32, 64, device='cuda')
-output = torch.ones_like(input)
+output = torch.zeros_like(input)
 example_bind.copy_kernel(input, output)
 print(output.mean(), '\n')
 ```
