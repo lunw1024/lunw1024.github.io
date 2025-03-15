@@ -23,3 +23,13 @@ h1 {
 a { text-decoration: none; color: #344e41; }
 a:hover { text-decoration: underline; }
 
+pre {
+  margin: 1em 0;
+  padding: 0.5em;
+  border-radius: 0.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

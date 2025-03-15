@@ -7,7 +7,11 @@ import rehypeTypst from '@myriaddreamin/rehype-typst';
 export default defineConfig({
   markdown: {
     remarkPlugins: [remarkMath],
-    rehypePlugins: [rehypeTypst]
+    rehypePlugins: [rehypeTypst],
+    shikiConfig: {
+      theme: 'everforest-light',
+      wrap: true,
+    }
   },
   // site: "https://alanwu.xyz",
 })
