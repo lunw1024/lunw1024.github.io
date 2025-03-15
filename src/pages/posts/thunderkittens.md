@@ -44,7 +44,7 @@ _Note: this is not an instruction._
 3. Set up `CUDA_HOME` and made python venv. Install torch.
 4. Ran into errors. Oh I needed to install pybind11 on python too.
 5. Seemed like the official demo code has typos. I changed `in.batch` → `in.batch()`, etc to resolve this.
-6. Kernel didn’t run at all. Oh cuda build target is by default H100. I’m too poor to afford that. Changed target to A100.
+6. Kernel didn’t run at all. Oh cuda build target was by default H100. Changed target to A100.
 
 Running a demo copy kernel:
 
