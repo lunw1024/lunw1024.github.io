@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/Layout.astro
 title: "Disclaimer"
+date: "2025-03-12"
 ---
 # Disclaimer
 

@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/Layout.astro
 title: "A Review of ThunderKittens for General ML Audience"
+date: "2025-03-15"
 ---
 # A Review of ThunderKittens for General ML Audience
 Proudly made with 🧠.

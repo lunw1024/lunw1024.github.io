@@ -11,7 +11,7 @@
   "dependencies": {
     "@fontsource/atkinson-hyperlegible-next": "^5.2.1",
     "@myriaddreamin/rehype-typst": "^0.5.4",
-    "astro": "^5.4.1",
+    "astro": "5.6.1",
     "remark-math": "^6.0.0"
   }
 }

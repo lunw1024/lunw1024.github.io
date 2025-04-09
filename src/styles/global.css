@@ -33,3 +33,18 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+blockquote {
+  /* Common styling */
+  margin-left: 1rem;  /* Indentation */
+  margin-right: 1rem;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 1rem; /* Space between border and text */
+  border-left: 4px solid #ccc; /* Visible left border */
+  color: #555; /* Optional: slightly different text color */
+  background-color: #f9f9f9; /* Optional: subtle background */
+
+  /* Prevent margin collapse issues sometimes */
+  overflow: hidden;
+}
