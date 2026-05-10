@@ -13,5 +13,5 @@ export default defineConfig({
       wrap: true,
     }
   },
-  // site: "https://alanwu.xyz",
+  site: "https://alanwu.xyz",
 })
